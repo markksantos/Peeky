@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peeky.app/sitemap.xml
